@@ -10,9 +10,7 @@ Apasionado por la **ciencia de datos** e **inteligencia artificial**, con sólid
 
 - 🎓 Cursando 6to semestre de Ingeniería en Ciencias de la Computación en la EPN
 - 💡 Interesado en Machine Learning, análisis de datos y desarrollo de software
-- 🌱 Actualmente aprendiendo: Deep Learning y arquitecturas distribuidas
-- 🔭 Trabajando en: Proyectos de IA y sistemas de gestión
-- 📫 Contacto: villacisalc@gmail.com | jesua.villacis@epn.edu.ec
+- 📫 Contacto: villacisalc@gmail.com 
 
 ---
 
