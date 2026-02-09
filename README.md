@@ -30,12 +30,12 @@ Scikit-learn  •  Pandas  •  NumPy  •  Matplotlib  •  Seaborn  •  Jupyt
 
 **Bases de Datos:**
 ```
-MySQL  •  SQL Server  •  Bases de Datos Distribuidas
+MySQL  •  SQL Server  
 ```
 
 **Herramientas:**
 ```
-Git/GitHub  •  VS Code  •  Google Colab  •  Virtualización
+Git/GitHub  •  VS Code  •  Google Colab 
 ```
 
 ---
