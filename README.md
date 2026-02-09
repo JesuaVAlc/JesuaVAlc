@@ -1,16 +1,61 @@
-## Hi there 👋
+# 👋 Hola, soy Jesua Villacis
 
-<!--
-**JesuaVAlc/JesuaVAlc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Estudiante de Ingeniería en Ciencias de la Computación** | Escuela Politécnica Nacional
 
-Here are some ideas to get you started:
+Apasionado por la **ciencia de datos** e **inteligencia artificial**, con sólidos fundamentos en desarrollo de software y arquitecturas de bases de datos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre mí
+
+- 🎓 Cursando 6to semestre de Ingeniería en Ciencias de la Computación en la EPN
+- 💡 Interesado en Machine Learning, análisis de datos y desarrollo de software
+- 🌱 Actualmente aprendiendo: Deep Learning y arquitecturas distribuidas
+- 🔭 Trabajando en: Proyectos de IA y sistemas de gestión
+- 📫 Contacto: villacisalc@gmail.com | jesua.villacis@epn.edu.ec
+
+---
+
+## 🛠️ Tecnologías y Herramientas
+
+**Lenguajes:**
+```
+Python  •  Java  •  C++  •  SQL
+```
+
+**Machine Learning & Data Science:**
+```
+Scikit-learn  •  Pandas  •  NumPy  •  Matplotlib  •  Seaborn  •  Jupyter
+```
+
+**Bases de Datos:**
+```
+MySQL  •  SQL Server  •  Bases de Datos Distribuidas
+```
+
+**Herramientas:**
+```
+Git/GitHub  •  VS Code  •  Google Colab  •  Virtualización
+```
+
+---
+
+## 📊 Estadísticas de GitHub
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JesuaVAlc&layout=compact&theme=default)
+
+---
+
+## 🌐 Idiomas
+
+- 🇪🇸 **Español:** Nativo
+- 🇬🇧 **Inglés:** Avanzado (C1 - Certificado por CEC EPN)
+
+---
+
+## 📫 Información de contacto
+
+- 📧 Email: villacisalc@gmail.com
+- 🌐 Ubicación: Quito, Ecuador
+
+---
