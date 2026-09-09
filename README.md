@@ -8,7 +8,7 @@ Apasionado por la **ciencia de datos** e **inteligencia artificial**, con sólid
 
 ## 🚀 Sobre mí
 
-- 🎓 Cursando 6to semestre de Ingeniería en Ciencias de la Computación en la EPN
+- 🎓 Cursando 7to semestre de Ingeniería en Ciencias de la Computación en la EPN
 - 💡 Interesado en Machine Learning, análisis de datos y desarrollo de software
 - 📫 Contacto: villacisalc@gmail.com 
 
